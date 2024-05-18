@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tomikya
-- 👀 I’m interested in software engginer
-- 🌱 I’m currently learning many things 
-- 💞️ I’m looking to collaborate on other programmers 
-- 📫 How to reach me... you can dm me on instagram @rftmsl_a
-- ⚡ Fun fact: I can't swim :)  
+- Hi, I’m @tomikya
+- I’m interested in software engginer
+- I’m currently learning many things 
+- I’m looking to collaborate on other programmers 
+- How to reach me... you can dm me on instagram @rftmsl_a
+- Fun fact: I can't swim :)  
